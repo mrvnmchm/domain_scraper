@@ -1,5 +1,7 @@
 # domain_scraper
 
+[![codebeat badge](https://codebeat.co/badges/b7a8cf55-2f5f-47a9-9867-449427cd00f6)](https://codebeat.co/projects/github-com-mrvnmchm-domain_scraper-master)
+
 Scrapes domains from one input URL or from a file list of domains for broken links,
 valid emails and valid social media links.
 
